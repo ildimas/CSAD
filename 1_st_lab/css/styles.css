@@ -38,4 +38,19 @@
     align-items: center; 
     text-align: center; 
     font-size: 16px;
+    font-weight: 400;
+}
+.product_cards_text {
+    font-size: 14px;
+    font-style: italic;
+    line-height: 16px;
+}
+.bordering {
+    border: 1px solid #000000;
+}
+.product_cards_text_full {
+    font-size: 16px;
+    font-style: italic;
+    line-height: 24px;
+    font-weight: 400;
 }
